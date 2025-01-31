@@ -1,0 +1,5 @@
+Comment tag:
+    <!--<comment here>-->
+
+Open html page git bash:
+    start <filename.html>
