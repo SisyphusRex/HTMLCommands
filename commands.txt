@@ -35,5 +35,5 @@ CSS Selectors
     Examples:
         a, b Multiple element
         a b descendant
-        a > b child selector
+        a > b child selector (only immediate child)
         a + b adjacent
