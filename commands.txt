@@ -22,3 +22,10 @@ Put style elements in separate file:
     then in html file:
         inside head tags:
             <link rel="stylesheet" href="styles.css">
+
+Specificity:
+    precedence of css styling
+    1. inline
+    2. id
+    3. class
+    4. type
