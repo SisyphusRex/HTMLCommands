@@ -67,4 +67,14 @@ Responsive Design:
                 grid-template-columns: 200px 200px auto;
             }
             
-            
+Bootstrap library:
+    lots of preconfigured styling
+    getbootstrap.com
+    How to use:
+        copy the css <link> and paste into <head> before other stylesheets
+
+Sass:
+    extension of css
+    
+    
+    
