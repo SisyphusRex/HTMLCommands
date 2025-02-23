@@ -59,3 +59,12 @@ Responsive Design:
                 flex-wrap: wrap:
             }
     4. grids
+        keeps elements in certain alignment   
+        <style>
+            #grid {
+                grid-column-gap: 20px;
+                grid-row-gap: 10px;
+                grid-template-columns: 200px 200px auto;
+            }
+            
+            
