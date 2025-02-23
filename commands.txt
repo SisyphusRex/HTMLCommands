@@ -9,3 +9,6 @@ Open html page git bash:
 
 CSS allows one to change properites of individual elements:
     <h1 style="color: blue;">
+CSS: 
+    Cascading Style Sheets
+    language to style an HTML document
