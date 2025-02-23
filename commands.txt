@@ -52,4 +52,10 @@ Responsive Design:
                     background-color: red;
                 }
     3. flexbox
+        wrap around elements
+        <style>
+            #container <!--element identified by id--> {
+                display: flex;
+                flex-wrap: wrap:
+            }
     4. grids
