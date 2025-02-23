@@ -12,3 +12,13 @@ CSS allows one to change properites of individual elements:
 CSS: 
     Cascading Style Sheets
     language to style an HTML document
+
+Put style elements in separate file:
+    styles.css
+        h1 {
+            color: red;
+            text-align: center;
+        }
+    then in html file:
+        inside head tags:
+            <link rel="stylesheet" href="styles.css">
