@@ -74,7 +74,18 @@ Bootstrap library:
         copy the css <link> and paste into <head> before other stylesheets
 
 Sass:
-    extension of css
+    extension of css with use of variables
+    create .scss file
+        create variable in .scss
+            $color: red;
+            ul {
+                font-size: 14px;
+                color: $color;
+            }
+            ol {
+                font-size: 18px;
+                color: $color;
+            }
     
     
     
