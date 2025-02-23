@@ -41,6 +41,15 @@ CSS Selectors
 Responsive Design:
     make web page viewable regardless of end device
     1. viewport
+        visible part of screen
+        how does the page translate to mobile device viewport
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
     2. media queries
+        control what a page looks like depending on browser
+        <head>
+            <style>
+                @media (min-width: 600px) {
+                    background-color: red;
+                }
     3. flexbox
     4. grids
