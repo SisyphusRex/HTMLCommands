@@ -6,3 +6,6 @@ Open html page git bash:
 
 <h1>stuff</h1> :
     the number determines the size of the text
+
+CSS allows one to change properites of individual elements:
+    <h1 style="color: blue;">
