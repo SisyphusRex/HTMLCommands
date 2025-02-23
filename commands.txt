@@ -3,3 +3,6 @@ Comment tag:
 
 Open html page git bash:
     start <filename.html>
+
+<h1>stuff</h1> :
+    the number determines the size of the text
