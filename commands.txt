@@ -37,3 +37,10 @@ CSS Selectors
         a b descendant
         a > b child selector (only immediate child)
         a + b adjacent
+
+Responsive Design:
+    make web page viewable regardless of end device
+    1. viewport
+    2. media queries
+    3. flexbox
+    4. grids
