@@ -29,3 +29,11 @@ Specificity:
     2. id
     3. class
     4. type
+
+CSS Selectors
+    how to select elements
+    Examples:
+        a, b Multiple element
+        a b descendant
+        a > b child selector
+        a + b adjacent
