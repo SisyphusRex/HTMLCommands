@@ -1,0 +1,10 @@
+Linking styles.css from another directory:
+  <!DOCTYPE html>
+  <html lang="en">
+    <head>
+      <link rel="stylesheet" href="<relativepath>">
+To get relative path:
+  go down directory:
+    <directoryname>/styles.css
+  go up directory:
+    ../styles.css
